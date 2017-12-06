@@ -1,0 +1,1140 @@
+﻿Log file open, 12/04/17 10:23:30
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: animation_test
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1100322460) SRandInit(1100322460).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.150717
+LogD3D11RHI: Aftermath initialized
+LogConfig: Warning: Failed to saved backup for config[EditorPerProjectUserSettings]
+LogPluginManager: Mounting plugin Paper2D
+LogConfig: Warning: Failed to saved backup for config[Paper2D]
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogConfig: Warning: Failed to saved backup for config[OculusVR]
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: E:/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.12.04-18.23.32:179][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.04-18.23.32:179][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.12.04-18.23.32:217][  0]LogConfig: Warning: Failed to saved backup for config[DeviceProfiles]
+[2017.12.04-18.23.32:236][  0]LogInit: Computer: DESKTOP-6DHURA6
+[2017.12.04-18.23.32:236][  0]LogInit: User: student
+[2017.12.04-18.23.32:236][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.12.04-18.23.32:236][  0]LogInit: High frequency timer resolution =3.515625 MHz
+[2017.12.04-18.23.32:237][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2017.12.04-18.23.32:237][  0]LogMemory: Platform Memory Stats for Windows
+[2017.12.04-18.23.32:237][  0]LogMemory: Process Physical Memory: 279.53 MB used, 279.53 MB peak
+[2017.12.04-18.23.32:237][  0]LogMemory: Process Virtual Memory: 282.10 MB used, 282.10 MB peak
+[2017.12.04-18.23.32:237][  0]LogMemory: Physical Memory: 5728.02 MB used,  10608.96 MB free, 16336.98 MB total
+[2017.12.04-18.23.32:237][  0]LogMemory: Virtual Memory: 710.14 MB used,  10608.96 MB free, 134217728.00 MB total
+[2017.12.04-18.23.32:362][  0]LogInit: Using OS detected language (en-US).
+[2017.12.04-18.23.32:362][  0]LogInit: Using OS detected locale (en-DE).
+[2017.12.04-18.23.32:364][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.12.04-18.23.32:902][  0]LogD3D11RHI: D3D11 adapters:
+[2017.12.04-18.23.32:942][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2017.12.04-18.23.32:942][  0]LogD3D11RHI:       8096/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.12.04-18.23.32:944][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.12.04-18.23.32:944][  0]LogD3D11RHI:       0/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.12.04-18.23.32:944][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.12.04-18.23.32:948][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.12.04-18.23.32:948][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2017.12.04-18.23.32:948][  0]LogWindows: EnumDisplayDevices:
+[2017.12.04-18.23.32:948][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2017.12.04-18.23.32:948][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.12.04-18.23.32:948][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.12.04-18.23.32:949][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.12.04-18.23.32:949][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2017.12.04-18.23.32:949][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2017.12.04-18.23.32:949][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2017.12.04-18.23.32:949][  0]LogD3D11RHI:      Driver Date: Unknown
+[2017.12.04-18.23.32:949][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.12.04-18.23.32:971][  0]LogD3D11RHI: Async texture creation enabled
+[2017.12.04-18.23.32:980][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.12.04-18.23.33:060][  0]LogShaderCompilers: Guid format shader working directory is -1 characters bigger than the processId version (F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Intermediate/Shaders/WorkingDirectory/22836/).
+[2017.12.04-18.23.33:060][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/student/AppData/Local/Temp/UnrealShaderWorkingDir/ADB627144F09FFB5077B90AA6E1A0A6B/'.
+[2017.12.04-18.23.33:060][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.12.04-18.23.33:743][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.12.04-18.23.33:773][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.12.04-18.23.33:802][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.12.04-18.23.33:834][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.12.04-18.23.33:864][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.12.04-18.23.33:893][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.12.04-18.23.33:924][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.12.04-18.23.33:954][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.12.04-18.23.33:978][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.12.04-18.23.34:008][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.12.04-18.23.34:037][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.12.04-18.23.34:066][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.12.04-18.23.34:100][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.12.04-18.23.34:130][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.12.04-18.23.34:160][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.12.04-18.23.34:220][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.12.04-18.23.34:220][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.12.04-18.23.34:242][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.12.04-18.23.34:307][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.12.04-18.23.34:324][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.12.04-18.23.34:353][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.12.04-18.23.34:382][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.12.04-18.23.34:412][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.12.04-18.23.34:442][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.12.04-18.23.34:442][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.12.04-18.23.34:708][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.12.04-18.23.34:775][  0]LogDerivedDataCache: Loaded boot cache 0.07s 93MB C:/Users/student/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.12.04-18.23.34:776][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/student/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.12.04-18.23.34:776][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.12.04-18.23.34:776][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.12.04-18.23.34:776][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.12.04-18.23.34:776][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.12.04-18.23.34:789][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.12.04-18.23.34:801][  0]LogDerivedDataCache: Using Local data cache path C:/Users/student/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.12.04-18.23.34:811][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.12.04-18.23.34:811][  0]LogSlate: Using Freetype 2.6.0
+[2017.12.04-18.23.34:811][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.04-18.23.34:811][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.04-18.23.35:018][  0]LogAssetRegistry: FAssetRegistry took 0.0250 seconds to start up
+[2017.12.04-18.23.35:149][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.04-18.23.35:264][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.12.04-18.23.35:466][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.12.04-18.23.35:491][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.12.04-18.23.35:491][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.12.04-18.23.35:491][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.12.04-18.23.35:491][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.12.04-18.23.35:491][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.12.04-18.23.35:784][  0]LogNetVersion: animation_test , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3410374033)
+[2017.12.04-18.23.36:182][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.279333 seconds
+[2017.12.04-18.23.36:193][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.12.04-18.23.36:194][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2017.12.04-18.23.36:194][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.12.04-18.23.36:264][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.12.04-18.23.38:117][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.12.04-18.23.38:146][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.12.04-18.23.38:557][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.12.04-18.23.38:834][  0]SourceControl: Source control is disabled
+[2017.12.04-18.23.38:834][  0]SourceControl: Source control is disabled
+[2017.12.04-18.23.38:862][  0]SourceControl: Source control is disabled
+[2017.12.04-18.23.38:890][  0]SourceControl: Source control is disabled
+[2017.12.04-18.23.39:237][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.12.04-18.23.39:394][  0]LogOcInput: OculusInput pre-init called
+[2017.12.04-18.23.39:561][  0]LogEngine: Initializing Engine...
+[2017.12.04-18.23.39:562][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.12.04-18.23.39:745][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.12.04-18.23.39:745][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.12.04-18.23.39:843][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.12.04-18.23.39:850][  0]LogInit: XAudio2 using 'PL2783Q-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.04-18.23.39:861][  0]LogInit: FAudioDevice initialized.
+[2017.12.04-18.23.39:942][  0]LogDerivedDataCache: Saved boot cache 0.08s 93MB C:/Users/student/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.12.04-18.23.39:953][  0]LogInit: Texture streaming: Enabled
+[2017.12.04-18.23.40:019][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.12.04-18.23.40:156][  0]LogInit: Transaction tracking system initialized
+[2017.12.04-18.23.40:347][  0]BlueprintLog: New page: Editor Load
+[2017.12.04-18.23.40:867][  0]LocalizationService: Localization service is disabled
+[2017.12.04-18.23.41:280][  0]LogConsoleResponse: Display: 
+[2017.12.04-18.23.41:422][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.12.04-18.23.41:422][  0]LogCook: Display: Mobile HDR setting 1
+[2017.12.04-18.23.41:422][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.12.04-18.23.41:568][  0]LogFileCache: Scanning file cache for directory 'F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Content/' took 0.02s
+[2017.12.04-18.23.42:059][  0]SourceControl: Source control is disabled
+[2017.12.04-18.23.42:059][  0]Cmd: MAP LOAD FILE="F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.04-18.23.42:060][  0]LightingResults: New page: Lighting Build
+[2017.12.04-18.23.42:082][  0]MapCheck: New page: Map Check
+[2017.12.04-18.23.42:082][  0]LightingResults: New page: Lighting Build
+[2017.12.04-18.23.42:557][  0]LogTexture: Display: Building textures: Boy_Head_diffuse (AutoDXT, 1024X1024)
+[2017.12.04-18.23.42:558][  0]LogTexture: Display: Building textures: Boy_Shoes_diffuse (AutoDXT, 2048X2048)
+[2017.12.04-18.23.42:919][  0]LogTexture: Display: Building textures: Boy_Hands_diffuse (AutoDXT, 2048X2048)
+[2017.12.04-18.23.42:920][  0]LogTexture: Display: Building textures: Boy_Hair_diffuse (AutoDXT, 2048X2048)
+[2017.12.04-18.23.42:920][  0]LogTexture: Display: Building textures: Boy_LowerBody_diffuse (AutoDXT, 2048X2048)
+[2017.12.04-18.23.42:920][  0]LogTexture: Display: Building textures: Boy_Scarf_diffuse (AutoDXT, 2048X2048)
+[2017.12.04-18.23.42:920][  0]LogTexture: Display: Building textures: Boy_UpperBody_diffuse (AutoDXT, 2048X2048)
+[2017.12.04-18.23.44:013][  0]LogMaterial: Missing cached shader map for material Boy01_UpperBody_MAT, compiling. 
+[2017.12.04-18.23.44:081][  0]LogMaterial: Missing cached shader map for material Boy01_Shoes_MAT, compiling. 
+[2017.12.04-18.23.44:119][  0]LogMaterial: Missing cached shader map for material Boy01_Scarf_MAT, compiling. 
+[2017.12.04-18.23.44:158][  0]LogMaterial: Missing cached shader map for material Boy01_LowerBody_MAT, compiling. 
+[2017.12.04-18.23.44:196][  0]LogMaterial: Missing cached shader map for material Boy01_Head_MAT, compiling. 
+[2017.12.04-18.23.44:239][  0]LogMaterial: Missing cached shader map for material Boy01_Hands_MAT, compiling. 
+[2017.12.04-18.23.44:395][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Boy_Char/Animations/Idle.Idle
+[2017.12.04-18.23.44:451][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Boy_Char/Animations/Running_Anim_mixamo_com.Running_Anim_mixamo_com
+[2017.12.04-18.23.44:457][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Boy_Char/Animations/Walking_Anim_mixamo_com.Walking_Anim_mixamo_com
+[2017.12.04-18.23.44:467][  0]LogMaterial: Missing cached shader map for material Boy01_Hair_MAT, compiling. 
+[2017.12.04-18.23.44:509][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.12.04-18.23.44:537][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.04-18.23.44:556][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.04-18.23.44:604][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 48.343ms to complete.
+[2017.12.04-18.23.44:604][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 2.545
+[2017.12.04-18.23.44:666][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.04-18.23.44:666][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.04-18.23.44:808][  0]LogCollectionManager: Loaded 0 collections in 0.000756 seconds
+[2017.12.04-18.23.44:875][  0]LogFileCache: Scanning file cache for directory 'F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Saved/Collections/' took 0.01s
+[2017.12.04-18.23.44:875][  0]LogFileCache: Scanning file cache for directory 'F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Content/Developers/student/Collections/' took 0.01s
+[2017.12.04-18.23.44:875][  0]LogFileCache: Scanning file cache for directory 'F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Content/Collections/' took 0.01s
+[2017.12.04-18.23.44:875][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.12.04-18.23.44:886][  0]LogContentBrowser: Native class hierarchy populated in 0.0113 seconds. Added 2387 classes and 502 folders.
+[2017.12.04-18.23.44:940][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2017.12.04-18.23.44:979][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2017.12.04-18.23.45:046][  0]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.04-18.23.45:049][  0]LogSlate: Took 0.000214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.12.04-18.23.45:053][  0]LogSlate: Took 0.000153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.12.04-18.23.45:190][  0]LogRenderer: Reallocating scene render targets to support 1336x808 Format 10 NumSamples 1 (Frame:1).
+[2017.12.04-18.24.08:474][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2017.12.04-18.24.08:474][  0]LogLoad: (Engine Initialization) Total time: 38.87 seconds
+[2017.12.04-18.24.08:474][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.12.04-18.24.08:474][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.12.04-18.24.08:589][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.12.04-18.24.08:690][  1]LogAssetRegistry: Asset discovery search completed in 33.6940 seconds
+[2017.12.04-18.24.08:693][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.12.04-18.24.08:693][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000060 seconds (updated 0 objects)
+[2017.12.04-18.24.12:459][416]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.04-18.24.12:860][416]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.04-18.24.12:860][416]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.04-18.24.12:862][416]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 4, 2017, 2:24:12 AM)
+[2017.12.04-18.24.12:862][416]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.12.04-18.24.12:898][416]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035614s)
+[2017.12.04-18.24.12:898][416]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.12.04-18.24.12:899][416]LogPlayLevel: PIE: World Init took: (0.001070s)
+[2017.12.04-18.24.12:899][416]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.037114s)
+[2017.12.04-18.24.12:919][416]LogInit: XAudio2 using 'PL2783Q-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.04-18.24.12:925][416]LogInit: FAudioDevice initialized.
+[2017.12.04-18.24.12:987][416]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.04-18.24.12:994][416]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.12.04-10.24.12
+[2017.12.04-18.24.12:995][416]LogWorld: Bringing up level for play took: 0.004232
+[2017.12.04-18.24.13:079][416]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0010 seconds. Added 11 classes and 0 folders.
+[2017.12.04-18.24.13:082][416]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.424
+[2017.12.04-18.24.13:082][416]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.04-18.24.35:993][148]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.04-18.24.36:025][148]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.04-18.24.38:302][396]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2017.12.04-18.24.53:132][940]LogSlate: Took 0.000175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.12.04-18.24.53:886][ 19]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.04-18.24.53:918][ 19]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.04-18.24.53:918][ 19]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.04-18.24.53:918][ 19]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 4, 2017, 2:24:53 AM)
+[2017.12.04-18.24.53:918][ 19]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.12.04-18.24.53:929][ 19]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011502s)
+[2017.12.04-18.24.53:930][ 19]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.12.04-18.24.53:930][ 19]LogPlayLevel: PIE: World Init took: (0.000866s)
+[2017.12.04-18.24.53:930][ 19]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012708s)
+[2017.12.04-18.24.53:968][ 19]LogInit: XAudio2 using 'PL2783Q-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.04-18.24.53:974][ 19]LogInit: FAudioDevice initialized.
+[2017.12.04-18.24.54:006][ 19]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.04-18.24.54:008][ 19]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.12.04-10.24.54
+[2017.12.04-18.24.54:008][ 19]LogWorld: Bringing up level for play took: 0.001669
+[2017.12.04-18.24.54:009][ 19]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.648
+[2017.12.04-18.24.54:009][ 19]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.04-18.25.14:446][467]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.04-18.25.14:548][467]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.04-18.25.35:087][647]Cmd: SELECT NONE
+[2017.12.04-18.25.39:003][108]LogSlate: Took 0.004980 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.04-18.25.39:257][108]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2017.12.04-18.25.39:573][108]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.12.04-18.25.39:966][108]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_5:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2017.12.04-18.25.40:516][108]LogSlate: Took 0.000169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.04-18.25.40:991][108]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0018 seconds. Added 1 classes and 0 folders.
+[2017.12.04-18.25.41:010][108]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.12.04-18.25.48:425][890]Cmd: TRANSACTION UNDO
+[2017.12.04-18.25.48:425][890]LogEditorTransaction: Undo Moving Blend Grid Sample
+[2017.12.04-18.25.48:579][890]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.12.04-18.25.48:590][890]LogSlate: Took 0.000235 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.04-18.25.48:723][900]Cmd: TRANSACTION UNDO
+[2017.12.04-18.25.48:723][900]LogEditorTransaction: Undo Select None
+[2017.12.04-18.25.48:837][900]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.12.04-18.31.49:388][957]LogAssetTools: Warning: Failed to import 'E:\Unreal\HurricanKidProto001\Content\ThirdPersonBP\Maps\RacoonCity.umap'. Unknown extension 'umap'.
+[2017.12.04-18.32.41:996][190]LogAssetTools: Warning: Failed to import 'E:\Unreal\HurricanKidProto001\Content\ThirdPersonBP\Maps\RacoonCity.umap'. Unknown extension 'umap'.
+[2017.12.04-18.32.49:827][895]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.04-18.32.49:848][895]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.04-18.32.49:848][895]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.04-18.32.49:848][895]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 4, 2017, 2:32:49 AM)
+[2017.12.04-18.32.49:848][895]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.12.04-18.32.49:861][895]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012469s)
+[2017.12.04-18.32.49:862][895]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.12.04-18.32.49:862][895]LogPlayLevel: PIE: World Init took: (0.000862s)
+[2017.12.04-18.32.49:862][895]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013620s)
+[2017.12.04-18.32.49:901][895]LogInit: XAudio2 using 'PL2783Q-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.04-18.32.49:906][895]LogInit: FAudioDevice initialized.
+[2017.12.04-18.32.49:938][895]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.04-18.32.49:941][895]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.12.04-10.32.49
+[2017.12.04-18.32.49:942][895]LogWorld: Bringing up level for play took: 0.002264
+[2017.12.04-18.32.49:943][895]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.714
+[2017.12.04-18.32.49:944][895]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.04-18.32.57:696][818]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.04-18.32.57:759][818]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.04-18.35.01:214][434]LogSavePackage: Save=292.34ms
+[2017.12.04-18.35.01:214][434]LogSavePackage: Moving 'F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Saved/NewWorld8CDB919D483564FA94C0FD874D7725EB.tmp' to 'F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Content/ThirdPersonBP/Maps/NewWorld.umap'
+[2017.12.04-18.35.01:246][434]LogSavePackage: Display: Finished SavePackage F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Content/ThirdPersonBP/Maps/NewWorld.umap
+[2017.12.04-18.35.01:248][434]LogFileHelpers: Saving map 'NewWorld' took 0.472
+[2017.12.04-18.35.03:709][434]LogSavePackage: Save=2129.01ms
+[2017.12.04-18.35.03:710][434]LogSavePackage: Moving 'F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Saved/ThirdPersonExampleMap7A3FF52543684ADBEA7887B49AFCB9F1.tmp' to 'F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.12.04-18.35.03:747][434]LogSavePackage: Display: Finished SavePackage F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.12.04-18.35.03:881][434]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 2.632
+[2017.12.04-18.35.03:886][434]Cmd: MAP LOAD FILE="F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Content/ThirdPersonBP/Maps/NewWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.04-18.35.03:886][434]LightingResults: New page: Lighting Build
+[2017.12.04-18.35.03:889][434]LoadErrors: New page: Loading map: NewWorld.umap
+[2017.12.04-18.35.03:928][434]MapCheck: New page: Map Check
+[2017.12.04-18.35.03:928][434]LightingResults: New page: Lighting Build
+[2017.12.04-18.35.04:004][434]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.04-18.35.04:005][434]LogAIModule: Creating AISystem for world NewWorld
+[2017.12.04-18.35.04:143][434]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.04-18.35.04:287][434]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 143.756ms to complete.
+[2017.12.04-18.35.04:288][434]LogFileHelpers: Loading map 'NewWorld' took 0.405
+[2017.12.04-18.35.14:858][369]LightingResults: New page: Lighting Build
+[2017.12.04-18.35.14:860][369]MapCheck: New page: Map Check
+[2017.12.04-18.35.14:860][369]LightingResults: New page: Lighting Build
+[2017.12.04-18.35.14:887][369]LogAIModule: Creating AISystem for world Untitled
+[2017.12.04-18.35.14:947][369]LoadErrors: New page: New Map
+[2017.12.04-18.35.14:951][369]LogAIModule: Creating AISystem for world NewWorld
+[2017.12.04-18.35.23:944][898]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.04-18.35.23:952][898]LightingResults: New page: Lighting Build
+[2017.12.04-18.35.23:953][898]LoadErrors: New page: Loading map: Template_Default.umap
+[2017.12.04-18.35.23:954][898]MapCheck: New page: Map Check
+[2017.12.04-18.35.23:954][898]LightingResults: New page: Lighting Build
+[2017.12.04-18.35.23:994][898]LogAIModule: Creating AISystem for world Untitled_2
+[2017.12.04-18.35.24:051][898]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.04-18.35.24:066][898]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.04-18.35.24:100][898]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 34.181ms to complete.
+[2017.12.04-18.35.24:100][898]LogFileHelpers: Loading map 'Template_Default' took 0.156
+[2017.12.04-18.35.24:105][898]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.12.04-18.35.49:390][ 89]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MonarchValley" FILE="F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Content/Maps/MonarchValley.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.04-18.35.50:397][ 89]LogSavePackage: Save=813.62ms
+[2017.12.04-18.35.50:397][ 89]LogSavePackage: Moving 'F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Saved/MonarchValley575C2F254972A1337B368F9399F46DD1.tmp' to 'F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Content/Maps/MonarchValley.umap'
+[2017.12.04-18.35.50:410][ 89]LogSavePackage: Display: Finished SavePackage F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Content/Maps/MonarchValley.umap
+[2017.12.04-18.35.50:499][ 89]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MonarchValley_BuiltData" FILE="F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Content/Maps/MonarchValley_BuiltData.uasset" SILENT=true
+[2017.12.04-18.35.50:570][ 89]LogSavePackage: Save=47.52ms
+[2017.12.04-18.35.50:570][ 89]LogSavePackage: Moving 'F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Saved/MonarchValley_BuiltData4007F77F47AFD5C7720A87BB124CB409.tmp' to 'F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Content/Maps/MonarchValley_BuiltData.uasset'
+[2017.12.04-18.35.50:579][ 89]LogSavePackage: Display: Finished SavePackage F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Content/Maps/MonarchValley_BuiltData.uasset
+[2017.12.04-18.35.50:593][ 89]LogFileHelpers: Saving map 'MonarchValley' took 1.271
+[2017.12.04-18.36.19:897][578]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.04-18.36.33:503][ 67]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.04-18.36.33:510][ 67]LightingResults: New page: Lighting Build
+[2017.12.04-18.36.33:510][ 67]LoadErrors: New page: Loading map: Template_Default.umap
+[2017.12.04-18.36.33:511][ 67]MapCheck: New page: Map Check
+[2017.12.04-18.36.33:511][ 67]LightingResults: New page: Lighting Build
+[2017.12.04-18.36.33:551][ 67]LogAIModule: Creating AISystem for world Untitled_3
+[2017.12.04-18.36.33:618][ 67]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.04-18.36.33:633][ 67]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.04-18.36.33:667][ 67]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 33.67ms to complete.
+[2017.12.04-18.36.33:667][ 67]LogFileHelpers: Loading map 'Template_Default' took 0.164
+[2017.12.04-18.36.41:801][ 35]LogSlate: Took 0.000126 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.04-18.36.55:142][621]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Maps/MonarchValley_BuiltData.MonarchValley_BuiltData'
+[2017.12.04-18.36.58:187][984]LogAIModule: Creating AISystem for world MonarchValley
+[2017.12.04-18.36.58:199][984]Cmd: MAP LOAD FILE="F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Content/Maps/MonarchValley.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.04-18.36.58:199][984]LightingResults: New page: Lighting Build
+[2017.12.04-18.36.58:200][984]LoadErrors: New page: Loading map: MonarchValley.umap
+[2017.12.04-18.36.58:200][984]MapCheck: New page: Map Check
+[2017.12.04-18.36.58:200][984]LightingResults: New page: Lighting Build
+[2017.12.04-18.36.58:282][984]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.04-18.36.58:322][984]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.04-18.36.58:357][984]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 35.584ms to complete.
+[2017.12.04-18.36.58:357][984]LogFileHelpers: Loading map 'MonarchValley' took 0.159
+[2017.12.04-18.37.01:436][351]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.12.04-18.37.03:524][596]Cmd: DELETE
+[2017.12.04-18.37.03:524][596]Cmd: ACTOR DELETE
+[2017.12.04-18.37.03:541][596]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.04-18.37.03:549][596]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2017.12.04-18.37.05:150][788]Cmd: TRANSACTION UNDO
+[2017.12.04-18.37.05:150][788]LogEditorTransaction: Undo Delete Actors
+[2017.12.04-18.39.42:525][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC'
+[2017.12.04-18.39.42:525][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC' while loading F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Content/Maps/ThirdPersonBP/Maps/RacoonCity.umap.
+[2017.12.04-18.39.42:525][340]LoadErrors: Error: /Game/Maps/ThirdPersonBP/Maps/RacoonCity : Can't find file for asset. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC
+[2017.12.04-18.39.42:525][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Collectible'
+[2017.12.04-18.39.42:525][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Collectible' while loading F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Content/Maps/ThirdPersonBP/Maps/RacoonCity.umap.
+[2017.12.04-18.39.42:525][340]LoadErrors: Error: /Game/Maps/ThirdPersonBP/Maps/RacoonCity : Can't find file for asset. /Game/ThirdPersonBP/Blueprints/Collectible
+[2017.12.04-18.39.42:526][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC'
+[2017.12.04-18.39.42:526][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC' while loading F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Content/Maps/ThirdPersonBP/Maps/RacoonCity.umap.
+[2017.12.04-18.39.42:526][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Collectible'
+[2017.12.04-18.39.42:526][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Collectible' while loading F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Content/Maps/ThirdPersonBP/Maps/RacoonCity.umap.
+[2017.12.04-18.39.42:526][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC'
+[2017.12.04-18.39.42:526][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC' while loading F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Content/Maps/ThirdPersonBP/Maps/RacoonCity.umap.
+[2017.12.04-18.39.42:526][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC'
+[2017.12.04-18.39.42:526][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC' while loading F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Content/Maps/ThirdPersonBP/Maps/RacoonCity.umap.
+[2017.12.04-18.39.42:526][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC'
+[2017.12.04-18.39.42:526][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC' while loading F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Content/Maps/ThirdPersonBP/Maps/RacoonCity.umap.
+[2017.12.04-18.39.42:528][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/BArrier'
+[2017.12.04-18.39.42:528][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/BArrier' while loading F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Content/Maps/ThirdPersonBP/Maps/RacoonCity.umap.
+[2017.12.04-18.39.42:528][340]LoadErrors: Error: /Game/Maps/ThirdPersonBP/Maps/RacoonCity : Can't find file for asset. /Game/ThirdPersonBP/MAterials/BArrier
+[2017.12.04-18.39.42:528][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/BArrier_2'
+[2017.12.04-18.39.42:528][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/BArrier_2' while loading F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Content/Maps/ThirdPersonBP/Maps/RacoonCity.umap.
+[2017.12.04-18.39.42:529][340]LoadErrors: Error: /Game/Maps/ThirdPersonBP/Maps/RacoonCity : Can't find file for asset. /Game/ThirdPersonBP/MAterials/BArrier_2
+[2017.12.04-18.39.42:529][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Einzelhaus'
+[2017.12.04-18.39.42:529][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Einzelhaus' while loading F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Content/Maps/ThirdPersonBP/Maps/RacoonCity.umap.
+[2017.12.04-18.39.42:529][340]LoadErrors: Error: /Game/Maps/ThirdPersonBP/Maps/RacoonCity : Can't find file for asset. /Game/ThirdPersonBP/MAterials/Einzelhaus
+[2017.12.04-18.39.42:529][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/GArten'
+[2017.12.04-18.39.42:529][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/GArten' while loading F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Content/Maps/ThirdPersonBP/Maps/RacoonCity.umap.
+[2017.12.04-18.39.42:529][340]LoadErrors: Error: /Game/Maps/ThirdPersonBP/Maps/RacoonCity : Can't find file for asset. /Game/ThirdPersonBP/MAterials/GArten
+[2017.12.04-18.39.42:529][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Park'
+[2017.12.04-18.39.42:529][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Park' while loading F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Content/Maps/ThirdPersonBP/Maps/RacoonCity.umap.
+[2017.12.04-18.39.42:529][340]LoadErrors: Error: /Game/Maps/ThirdPersonBP/Maps/RacoonCity : Can't find file for asset. /Game/ThirdPersonBP/MAterials/Park
+[2017.12.04-18.39.42:529][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Parkplatz'
+[2017.12.04-18.39.42:529][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Parkplatz' while loading F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Content/Maps/ThirdPersonBP/Maps/RacoonCity.umap.
+[2017.12.04-18.39.42:529][340]LoadErrors: Error: /Game/Maps/ThirdPersonBP/Maps/RacoonCity : Can't find file for asset. /Game/ThirdPersonBP/MAterials/Parkplatz
+[2017.12.04-18.39.42:529][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Reihenhäuser'
+[2017.12.04-18.39.42:529][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Reihenhäuser' while loading F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Content/Maps/ThirdPersonBP/Maps/RacoonCity.umap.
+[2017.12.04-18.39.42:529][340]LoadErrors: Error: /Game/Maps/ThirdPersonBP/Maps/RacoonCity : Can't find file for asset. /Game/ThirdPersonBP/MAterials/Reihenhäuser
+[2017.12.04-18.39.42:529][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/School'
+[2017.12.04-18.39.42:530][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/School' while loading F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Content/Maps/ThirdPersonBP/Maps/RacoonCity.umap.
+[2017.12.04-18.39.42:530][340]LoadErrors: Error: /Game/Maps/ThirdPersonBP/Maps/RacoonCity : Can't find file for asset. /Game/ThirdPersonBP/MAterials/School
+[2017.12.04-18.39.42:530][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Spielplatz'
+[2017.12.04-18.39.42:530][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Spielplatz' while loading F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Content/Maps/ThirdPersonBP/Maps/RacoonCity.umap.
+[2017.12.04-18.39.42:530][340]LoadErrors: Error: /Game/Maps/ThirdPersonBP/Maps/RacoonCity : Can't find file for asset. /Game/ThirdPersonBP/MAterials/Spielplatz
+[2017.12.04-18.39.42:530][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Stores'
+[2017.12.04-18.39.42:530][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Stores' while loading F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Content/Maps/ThirdPersonBP/Maps/RacoonCity.umap.
+[2017.12.04-18.39.42:530][340]LoadErrors: Error: /Game/Maps/ThirdPersonBP/Maps/RacoonCity : Can't find file for asset. /Game/ThirdPersonBP/MAterials/Stores
+[2017.12.04-18.39.42:530][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Supermarkt'
+[2017.12.04-18.39.42:530][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Supermarkt' while loading F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Content/Maps/ThirdPersonBP/Maps/RacoonCity.umap.
+[2017.12.04-18.39.42:530][340]LoadErrors: Error: /Game/Maps/ThirdPersonBP/Maps/RacoonCity : Can't find file for asset. /Game/ThirdPersonBP/MAterials/Supermarkt
+[2017.12.04-18.39.42:530][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Undefined'
+[2017.12.04-18.39.42:530][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Undefined' while loading F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Content/Maps/ThirdPersonBP/Maps/RacoonCity.umap.
+[2017.12.04-18.39.42:530][340]LoadErrors: Error: /Game/Maps/ThirdPersonBP/Maps/RacoonCity : Can't find file for asset. /Game/ThirdPersonBP/MAterials/Undefined
+[2017.12.04-18.39.42:530][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Zones'
+[2017.12.04-18.39.42:530][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Zones' while loading F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Content/Maps/ThirdPersonBP/Maps/RacoonCity.umap.
+[2017.12.04-18.39.42:531][340]LoadErrors: Error: /Game/Maps/ThirdPersonBP/Maps/RacoonCity : Can't find file for asset. /Game/ThirdPersonBP/MAterials/Zones
+[2017.12.04-18.39.42:535][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Collectible'
+[2017.12.04-18.39.42:535][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Collectible' while loading F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Content/Maps/ThirdPersonBP/Maps/RacoonCity.umap.
+[2017.12.04-18.39.42:535][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC'
+[2017.12.04-18.39.42:535][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC' while loading F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Content/Maps/ThirdPersonBP/Maps/RacoonCity.umap.
+[2017.12.04-18.39.42:535][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/BArrier'
+[2017.12.04-18.39.42:535][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/BArrier' while loading F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Content/Maps/ThirdPersonBP/Maps/RacoonCity.umap.
+[2017.12.04-18.39.42:536][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/BArrier_2'
+[2017.12.04-18.39.42:536][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/BArrier_2' while loading F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Content/Maps/ThirdPersonBP/Maps/RacoonCity.umap.
+[2017.12.04-18.39.42:536][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Einzelhaus'
+[2017.12.04-18.39.42:536][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Einzelhaus' while loading F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Content/Maps/ThirdPersonBP/Maps/RacoonCity.umap.
+[2017.12.04-18.39.42:536][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/GArten'
+[2017.12.04-18.39.42:536][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/GArten' while loading F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Content/Maps/ThirdPersonBP/Maps/RacoonCity.umap.
+[2017.12.04-18.39.42:536][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Park'
+[2017.12.04-18.39.42:536][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Park' while loading F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Content/Maps/ThirdPersonBP/Maps/RacoonCity.umap.
+[2017.12.04-18.39.42:536][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Parkplatz'
+[2017.12.04-18.39.42:536][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Parkplatz' while loading F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Content/Maps/ThirdPersonBP/Maps/RacoonCity.umap.
+[2017.12.04-18.39.42:536][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Reihenhäuser'
+[2017.12.04-18.39.42:536][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Reihenhäuser' while loading F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Content/Maps/ThirdPersonBP/Maps/RacoonCity.umap.
+[2017.12.04-18.39.42:536][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/School'
+[2017.12.04-18.39.42:536][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/School' while loading F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Content/Maps/ThirdPersonBP/Maps/RacoonCity.umap.
+[2017.12.04-18.39.42:537][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Spielplatz'
+[2017.12.04-18.39.42:537][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Spielplatz' while loading F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Content/Maps/ThirdPersonBP/Maps/RacoonCity.umap.
+[2017.12.04-18.39.42:537][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Stores'
+[2017.12.04-18.39.42:537][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Stores' while loading F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Content/Maps/ThirdPersonBP/Maps/RacoonCity.umap.
+[2017.12.04-18.39.42:537][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Supermarkt'
+[2017.12.04-18.39.42:537][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Supermarkt' while loading F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Content/Maps/ThirdPersonBP/Maps/RacoonCity.umap.
+[2017.12.04-18.39.42:537][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Undefined'
+[2017.12.04-18.39.42:537][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Undefined' while loading F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Content/Maps/ThirdPersonBP/Maps/RacoonCity.umap.
+[2017.12.04-18.39.42:537][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Zones'
+[2017.12.04-18.39.42:537][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Zones' while loading F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Content/Maps/ThirdPersonBP/Maps/RacoonCity.umap.
+[2017.12.04-18.39.42:537][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Collectible'
+[2017.12.04-18.39.42:537][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Collectible' while loading F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Content/Maps/ThirdPersonBP/Maps/RacoonCity.umap.
+[2017.12.04-18.39.42:538][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC'
+[2017.12.04-18.39.42:538][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC' while loading F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Content/Maps/ThirdPersonBP/Maps/RacoonCity.umap.
+[2017.12.04-18.39.42:538][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC'
+[2017.12.04-18.39.42:538][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC' while loading F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Content/Maps/ThirdPersonBP/Maps/RacoonCity.umap.
+[2017.12.04-18.39.42:539][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Collectible'
+[2017.12.04-18.39.42:539][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Collectible' while loading F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Content/Maps/ThirdPersonBP/Maps/RacoonCity.umap.
+[2017.12.04-18.39.42:539][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC'
+[2017.12.04-18.39.42:539][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC' while loading F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Content/Maps/ThirdPersonBP/Maps/RacoonCity.umap.
+[2017.12.04-18.39.42:540][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC'
+[2017.12.04-18.39.42:540][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC' while loading NULL.
+[2017.12.04-18.39.42:540][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Collectible'
+[2017.12.04-18.39.42:540][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Collectible' while loading NULL.
+[2017.12.04-18.39.42:540][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC'
+[2017.12.04-18.39.42:540][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC' while loading NULL.
+[2017.12.04-18.39.42:540][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Collectible'
+[2017.12.04-18.39.42:540][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Collectible' while loading NULL.
+[2017.12.04-18.39.42:540][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC'
+[2017.12.04-18.39.42:540][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC' while loading NULL.
+[2017.12.04-18.39.42:540][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC'
+[2017.12.04-18.39.42:540][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC' while loading NULL.
+[2017.12.04-18.39.42:540][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC'
+[2017.12.04-18.39.42:541][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC' while loading NULL.
+[2017.12.04-18.39.42:541][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/BArrier'
+[2017.12.04-18.39.42:541][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/BArrier' while loading NULL.
+[2017.12.04-18.39.42:541][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/BArrier_2'
+[2017.12.04-18.39.42:541][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/BArrier_2' while loading NULL.
+[2017.12.04-18.39.42:541][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Einzelhaus'
+[2017.12.04-18.39.42:541][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Einzelhaus' while loading NULL.
+[2017.12.04-18.39.42:541][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/GArten'
+[2017.12.04-18.39.42:541][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/GArten' while loading NULL.
+[2017.12.04-18.39.42:541][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Park'
+[2017.12.04-18.39.42:541][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Park' while loading NULL.
+[2017.12.04-18.39.42:541][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Parkplatz'
+[2017.12.04-18.39.42:541][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Parkplatz' while loading NULL.
+[2017.12.04-18.39.42:541][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Reihenhäuser'
+[2017.12.04-18.39.42:541][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Reihenhäuser' while loading NULL.
+[2017.12.04-18.39.42:541][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/School'
+[2017.12.04-18.39.42:542][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/School' while loading NULL.
+[2017.12.04-18.39.42:542][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Spielplatz'
+[2017.12.04-18.39.42:542][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Spielplatz' while loading NULL.
+[2017.12.04-18.39.42:542][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Stores'
+[2017.12.04-18.39.42:542][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Stores' while loading NULL.
+[2017.12.04-18.39.42:542][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Supermarkt'
+[2017.12.04-18.39.42:542][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Supermarkt' while loading NULL.
+[2017.12.04-18.39.42:542][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Undefined'
+[2017.12.04-18.39.42:542][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Undefined' while loading NULL.
+[2017.12.04-18.39.42:542][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Zones'
+[2017.12.04-18.39.42:542][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Zones' while loading NULL.
+[2017.12.04-18.39.42:542][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Collectible'
+[2017.12.04-18.39.42:542][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Collectible' while loading NULL.
+[2017.12.04-18.39.42:542][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC'
+[2017.12.04-18.39.42:542][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC' while loading NULL.
+[2017.12.04-18.39.42:542][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/BArrier'
+[2017.12.04-18.39.42:542][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/BArrier' while loading NULL.
+[2017.12.04-18.39.42:542][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/BArrier_2'
+[2017.12.04-18.39.42:543][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/BArrier_2' while loading NULL.
+[2017.12.04-18.39.42:543][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Einzelhaus'
+[2017.12.04-18.39.42:543][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Einzelhaus' while loading NULL.
+[2017.12.04-18.39.42:543][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/GArten'
+[2017.12.04-18.39.42:543][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/GArten' while loading NULL.
+[2017.12.04-18.39.42:543][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Park'
+[2017.12.04-18.39.42:543][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Park' while loading NULL.
+[2017.12.04-18.39.42:543][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Parkplatz'
+[2017.12.04-18.39.42:543][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Parkplatz' while loading NULL.
+[2017.12.04-18.39.42:543][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Reihenhäuser'
+[2017.12.04-18.39.42:543][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Reihenhäuser' while loading NULL.
+[2017.12.04-18.39.42:543][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/School'
+[2017.12.04-18.39.42:543][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/School' while loading NULL.
+[2017.12.04-18.39.42:543][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Spielplatz'
+[2017.12.04-18.39.42:543][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Spielplatz' while loading NULL.
+[2017.12.04-18.39.42:543][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Stores'
+[2017.12.04-18.39.42:543][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Stores' while loading NULL.
+[2017.12.04-18.39.42:543][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Supermarkt'
+[2017.12.04-18.39.42:543][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Supermarkt' while loading NULL.
+[2017.12.04-18.39.42:544][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Undefined'
+[2017.12.04-18.39.42:544][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Undefined' while loading NULL.
+[2017.12.04-18.39.42:544][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Zones'
+[2017.12.04-18.39.42:544][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Zones' while loading NULL.
+[2017.12.04-18.39.42:544][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Collectible'
+[2017.12.04-18.39.42:544][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Collectible' while loading NULL.
+[2017.12.04-18.39.42:544][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC'
+[2017.12.04-18.39.42:544][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC' while loading NULL.
+[2017.12.04-18.39.42:544][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC'
+[2017.12.04-18.39.42:544][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC' while loading NULL.
+[2017.12.04-18.39.42:544][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Collectible'
+[2017.12.04-18.39.42:544][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Collectible' while loading NULL.
+[2017.12.04-18.39.42:544][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC'
+[2017.12.04-18.39.42:544][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC' while loading NULL.
+[2017.12.04-18.39.42:546][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC'
+[2017.12.04-18.39.42:547][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC' while loading NULL.
+[2017.12.04-18.39.42:547][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC'
+[2017.12.04-18.39.42:547][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC' while loading NULL.
+[2017.12.04-18.39.42:547][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Collectible'
+[2017.12.04-18.39.42:547][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Collectible' while loading NULL.
+[2017.12.04-18.39.42:547][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Collectible'
+[2017.12.04-18.39.42:547][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Collectible' while loading NULL.
+[2017.12.04-18.39.42:547][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC'
+[2017.12.04-18.39.42:547][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC' while loading NULL.
+[2017.12.04-18.39.42:547][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC'
+[2017.12.04-18.39.42:547][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC' while loading NULL.
+[2017.12.04-18.39.42:548][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC'
+[2017.12.04-18.39.42:548][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC' while loading NULL.
+[2017.12.04-18.39.42:548][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC'
+[2017.12.04-18.39.42:548][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC' while loading NULL.
+[2017.12.04-18.39.42:548][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC'
+[2017.12.04-18.39.42:548][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC' while loading NULL.
+[2017.12.04-18.39.42:548][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC'
+[2017.12.04-18.39.42:548][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC' while loading NULL.
+[2017.12.04-18.39.42:548][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Collectible'
+[2017.12.04-18.39.42:548][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Collectible' while loading NULL.
+[2017.12.04-18.39.42:548][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Collectible'
+[2017.12.04-18.39.42:548][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Collectible' while loading NULL.
+[2017.12.04-18.39.42:549][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Collectible'
+[2017.12.04-18.39.42:549][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Collectible' while loading NULL.
+[2017.12.04-18.39.42:549][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Collectible'
+[2017.12.04-18.39.42:549][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Collectible' while loading NULL.
+[2017.12.04-18.39.42:549][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC'
+[2017.12.04-18.39.42:549][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC' while loading NULL.
+[2017.12.04-18.39.42:549][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC'
+[2017.12.04-18.39.42:549][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC' while loading NULL.
+[2017.12.04-18.39.42:549][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC'
+[2017.12.04-18.39.42:549][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC' while loading NULL.
+[2017.12.04-18.39.42:549][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC'
+[2017.12.04-18.39.42:549][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC' while loading NULL.
+[2017.12.04-18.39.42:552][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Collectible'
+[2017.12.04-18.39.42:552][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Collectible' while loading NULL.
+[2017.12.04-18.39.42:552][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Collectible'
+[2017.12.04-18.39.42:552][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Collectible' while loading NULL.
+[2017.12.04-18.39.42:553][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC'
+[2017.12.04-18.39.42:553][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC' while loading NULL.
+[2017.12.04-18.39.42:553][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC'
+[2017.12.04-18.39.42:553][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC' while loading NULL.
+[2017.12.04-18.39.42:553][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Collectible'
+[2017.12.04-18.39.42:553][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Collectible' while loading NULL.
+[2017.12.04-18.39.42:554][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Collectible'
+[2017.12.04-18.39.42:554][340]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/Collectible.Collectible_C Referenced by PersistentLevel
+[2017.12.04-18.39.42:554][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Collectible' while loading NULL.
+[2017.12.04-18.39.42:554][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC'
+[2017.12.04-18.39.42:554][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC' while loading NULL.
+[2017.12.04-18.39.42:554][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC'
+[2017.12.04-18.39.42:554][340]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC.ThirdPersonCharacterNPC_C Referenced by PersistentLevel
+[2017.12.04-18.39.42:554][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacterNPC' while loading NULL.
+[2017.12.04-18.39.42:554][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Supermarkt'
+[2017.12.04-18.39.42:554][340]LoadErrors: Failed to load /Game/ThirdPersonBP/MAterials/Supermarkt.Supermarkt Referenced by Cube10
+[2017.12.04-18.39.42:555][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Supermarkt' while loading NULL.
+[2017.12.04-18.39.42:555][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Reihenhäuser'
+[2017.12.04-18.39.42:555][340]LoadErrors: Failed to load /Game/ThirdPersonBP/MAterials/Reihenhäuser.Reihenhäuser Referenced by Cube11
+[2017.12.04-18.39.42:555][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Reihenhäuser' while loading NULL.
+[2017.12.04-18.39.42:555][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Reihenhäuser'
+[2017.12.04-18.39.42:555][340]LoadErrors: Failed to load /Game/ThirdPersonBP/MAterials/Reihenhäuser.Reihenhäuser Referenced by Cube12
+[2017.12.04-18.39.42:555][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Reihenhäuser' while loading NULL.
+[2017.12.04-18.39.42:555][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Reihenhäuser'
+[2017.12.04-18.39.42:555][340]LoadErrors: Failed to load /Game/ThirdPersonBP/MAterials/Reihenhäuser.Reihenhäuser Referenced by Cube13
+[2017.12.04-18.39.42:555][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Reihenhäuser' while loading NULL.
+[2017.12.04-18.39.42:555][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Reihenhäuser'
+[2017.12.04-18.39.42:555][340]LoadErrors: Failed to load /Game/ThirdPersonBP/MAterials/Reihenhäuser.Reihenhäuser Referenced by Cube14
+[2017.12.04-18.39.42:556][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Reihenhäuser' while loading NULL.
+[2017.12.04-18.39.42:556][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Einzelhaus'
+[2017.12.04-18.39.42:556][340]LoadErrors: Failed to load /Game/ThirdPersonBP/MAterials/Einzelhaus.Einzelhaus Referenced by Cube15
+[2017.12.04-18.39.42:556][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Einzelhaus' while loading NULL.
+[2017.12.04-18.39.42:556][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Einzelhaus'
+[2017.12.04-18.39.42:556][340]LoadErrors: Failed to load /Game/ThirdPersonBP/MAterials/Einzelhaus.Einzelhaus Referenced by Cube16
+[2017.12.04-18.39.42:556][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Einzelhaus' while loading NULL.
+[2017.12.04-18.39.42:556][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Stores'
+[2017.12.04-18.39.42:556][340]LoadErrors: Failed to load /Game/ThirdPersonBP/MAterials/Stores.Stores Referenced by Cube17
+[2017.12.04-18.39.42:556][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Stores' while loading NULL.
+[2017.12.04-18.39.42:556][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Undefined'
+[2017.12.04-18.39.42:556][340]LoadErrors: Failed to load /Game/ThirdPersonBP/MAterials/Undefined.Undefined Referenced by Cube18
+[2017.12.04-18.39.42:556][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Undefined' while loading NULL.
+[2017.12.04-18.39.42:557][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Undefined'
+[2017.12.04-18.39.42:557][340]LoadErrors: Failed to load /Game/ThirdPersonBP/MAterials/Undefined.Undefined Referenced by Cube19
+[2017.12.04-18.39.42:557][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Undefined' while loading NULL.
+[2017.12.04-18.39.42:557][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/BArrier'
+[2017.12.04-18.39.42:557][340]LoadErrors: Failed to load /Game/ThirdPersonBP/MAterials/BArrier.BArrier Referenced by Cube2
+[2017.12.04-18.39.42:557][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/BArrier' while loading NULL.
+[2017.12.04-18.39.42:557][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Undefined'
+[2017.12.04-18.39.42:557][340]LoadErrors: Failed to load /Game/ThirdPersonBP/MAterials/Undefined.Undefined Referenced by Cube20
+[2017.12.04-18.39.42:557][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Undefined' while loading NULL.
+[2017.12.04-18.39.42:557][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Undefined'
+[2017.12.04-18.39.42:557][340]LoadErrors: Failed to load /Game/ThirdPersonBP/MAterials/Undefined.Undefined Referenced by Cube21
+[2017.12.04-18.39.42:558][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Undefined' while loading NULL.
+[2017.12.04-18.39.42:558][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Undefined'
+[2017.12.04-18.39.42:558][340]LoadErrors: Failed to load /Game/ThirdPersonBP/MAterials/Undefined.Undefined Referenced by Cube22
+[2017.12.04-18.39.42:558][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Undefined' while loading NULL.
+[2017.12.04-18.39.42:558][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Undefined'
+[2017.12.04-18.39.42:558][340]LoadErrors: Failed to load /Game/ThirdPersonBP/MAterials/Undefined.Undefined Referenced by Cube23
+[2017.12.04-18.39.42:558][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Undefined' while loading NULL.
+[2017.12.04-18.39.42:558][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Undefined'
+[2017.12.04-18.39.42:558][340]LoadErrors: Failed to load /Game/ThirdPersonBP/MAterials/Undefined.Undefined Referenced by Cube24
+[2017.12.04-18.39.42:558][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Undefined' while loading NULL.
+[2017.12.04-18.39.42:558][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Einzelhaus'
+[2017.12.04-18.39.42:559][340]LoadErrors: Failed to load /Game/ThirdPersonBP/MAterials/Einzelhaus.Einzelhaus Referenced by Cube25
+[2017.12.04-18.39.42:559][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Einzelhaus' while loading NULL.
+[2017.12.04-18.39.42:559][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Einzelhaus'
+[2017.12.04-18.39.42:559][340]LoadErrors: Failed to load /Game/ThirdPersonBP/MAterials/Einzelhaus.Einzelhaus Referenced by Cube26_73
+[2017.12.04-18.39.42:559][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Einzelhaus' while loading NULL.
+[2017.12.04-18.39.42:559][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/BArrier_2'
+[2017.12.04-18.39.42:559][340]LoadErrors: Failed to load /Game/ThirdPersonBP/MAterials/BArrier_2.BArrier_2 Referenced by Cube27_80
+[2017.12.04-18.39.42:559][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/BArrier_2' while loading NULL.
+[2017.12.04-18.39.42:559][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Einzelhaus'
+[2017.12.04-18.39.42:559][340]LoadErrors: Failed to load /Game/ThirdPersonBP/MAterials/Einzelhaus.Einzelhaus Referenced by Cube28
+[2017.12.04-18.39.42:559][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Einzelhaus' while loading NULL.
+[2017.12.04-18.39.42:560][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Einzelhaus'
+[2017.12.04-18.39.42:560][340]LoadErrors: Failed to load /Game/ThirdPersonBP/MAterials/Einzelhaus.Einzelhaus Referenced by Cube29
+[2017.12.04-18.39.42:560][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Einzelhaus' while loading NULL.
+[2017.12.04-18.39.42:560][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/BArrier'
+[2017.12.04-18.39.42:560][340]LoadErrors: Failed to load /Game/ThirdPersonBP/MAterials/BArrier.BArrier Referenced by Cube3
+[2017.12.04-18.39.42:560][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/BArrier' while loading NULL.
+[2017.12.04-18.39.42:560][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Einzelhaus'
+[2017.12.04-18.39.42:560][340]LoadErrors: Failed to load /Game/ThirdPersonBP/MAterials/Einzelhaus.Einzelhaus Referenced by Cube30
+[2017.12.04-18.39.42:560][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Einzelhaus' while loading NULL.
+[2017.12.04-18.39.42:560][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/BArrier'
+[2017.12.04-18.39.42:560][340]LoadErrors: Failed to load /Game/ThirdPersonBP/MAterials/BArrier.BArrier Referenced by Cube31
+[2017.12.04-18.39.42:561][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/BArrier' while loading NULL.
+[2017.12.04-18.39.42:561][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/School'
+[2017.12.04-18.39.42:561][340]LoadErrors: Failed to load /Game/ThirdPersonBP/MAterials/School.School Referenced by Cube32
+[2017.12.04-18.39.42:561][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/School' while loading NULL.
+[2017.12.04-18.39.42:561][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Einzelhaus'
+[2017.12.04-18.39.42:561][340]LoadErrors: Failed to load /Game/ThirdPersonBP/MAterials/Einzelhaus.Einzelhaus Referenced by Cube33
+[2017.12.04-18.39.42:561][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Einzelhaus' while loading NULL.
+[2017.12.04-18.39.42:561][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/BArrier'
+[2017.12.04-18.39.42:561][340]LoadErrors: Failed to load /Game/ThirdPersonBP/MAterials/BArrier.BArrier Referenced by Cube4
+[2017.12.04-18.39.42:561][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/BArrier' while loading NULL.
+[2017.12.04-18.39.42:562][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/BArrier'
+[2017.12.04-18.39.42:562][340]LoadErrors: Failed to load /Game/ThirdPersonBP/MAterials/BArrier.BArrier Referenced by Cube5
+[2017.12.04-18.39.42:562][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/BArrier' while loading NULL.
+[2017.12.04-18.39.42:562][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Stores'
+[2017.12.04-18.39.42:562][340]LoadErrors: Failed to load /Game/ThirdPersonBP/MAterials/Stores.Stores Referenced by Cube6_38
+[2017.12.04-18.39.42:562][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Stores' while loading NULL.
+[2017.12.04-18.39.42:562][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Stores'
+[2017.12.04-18.39.42:562][340]LoadErrors: Failed to load /Game/ThirdPersonBP/MAterials/Stores.Stores Referenced by Cube7
+[2017.12.04-18.39.42:562][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Stores' while loading NULL.
+[2017.12.04-18.39.42:562][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Stores'
+[2017.12.04-18.39.42:563][340]LoadErrors: Failed to load /Game/ThirdPersonBP/MAterials/Stores.Stores Referenced by Cube8
+[2017.12.04-18.39.42:563][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Stores' while loading NULL.
+[2017.12.04-18.39.42:563][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Stores'
+[2017.12.04-18.39.42:563][340]LoadErrors: Failed to load /Game/ThirdPersonBP/MAterials/Stores.Stores Referenced by Cube9
+[2017.12.04-18.39.42:563][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Stores' while loading NULL.
+[2017.12.04-18.39.42:563][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/BArrier'
+[2017.12.04-18.39.42:563][340]LoadErrors: Failed to load /Game/ThirdPersonBP/MAterials/BArrier.BArrier Referenced by Cube_23
+[2017.12.04-18.39.42:563][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/BArrier' while loading NULL.
+[2017.12.04-18.39.42:564][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Parkplatz'
+[2017.12.04-18.39.42:564][340]LoadErrors: Failed to load /Game/ThirdPersonBP/MAterials/Parkplatz.Parkplatz Referenced by Plane2_44
+[2017.12.04-18.39.42:564][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Parkplatz' while loading NULL.
+[2017.12.04-18.39.42:564][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Parkplatz'
+[2017.12.04-18.39.42:564][340]LoadErrors: Failed to load /Game/ThirdPersonBP/MAterials/Parkplatz.Parkplatz Referenced by Plane3
+[2017.12.04-18.39.42:564][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Parkplatz' while loading NULL.
+[2017.12.04-18.39.42:565][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Spielplatz'
+[2017.12.04-18.39.42:565][340]LoadErrors: Failed to load /Game/ThirdPersonBP/MAterials/Spielplatz.Spielplatz Referenced by Plane36
+[2017.12.04-18.39.42:565][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Spielplatz' while loading NULL.
+[2017.12.04-18.39.42:565][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/GArten'
+[2017.12.04-18.39.42:565][340]LoadErrors: Failed to load /Game/ThirdPersonBP/MAterials/GArten.GArten Referenced by Plane37
+[2017.12.04-18.39.42:565][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/GArten' while loading NULL.
+[2017.12.04-18.39.42:565][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/GArten'
+[2017.12.04-18.39.42:565][340]LoadErrors: Failed to load /Game/ThirdPersonBP/MAterials/GArten.GArten Referenced by Plane38
+[2017.12.04-18.39.42:565][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/GArten' while loading NULL.
+[2017.12.04-18.39.42:566][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/GArten'
+[2017.12.04-18.39.42:566][340]LoadErrors: Failed to load /Game/ThirdPersonBP/MAterials/GArten.GArten Referenced by Plane39_61
+[2017.12.04-18.39.42:566][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/GArten' while loading NULL.
+[2017.12.04-18.39.42:566][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Undefined'
+[2017.12.04-18.39.42:566][340]LoadErrors: Failed to load /Game/ThirdPersonBP/MAterials/Undefined.Undefined Referenced by Plane40
+[2017.12.04-18.39.42:566][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Undefined' while loading NULL.
+[2017.12.04-18.39.42:566][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/GArten'
+[2017.12.04-18.39.42:566][340]LoadErrors: Failed to load /Game/ThirdPersonBP/MAterials/GArten.GArten Referenced by Plane41
+[2017.12.04-18.39.42:566][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/GArten' while loading NULL.
+[2017.12.04-18.39.42:567][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Park'
+[2017.12.04-18.39.42:567][340]LoadErrors: Failed to load /Game/ThirdPersonBP/MAterials/Park.Park Referenced by Plane5_52
+[2017.12.04-18.39.42:567][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Park' while loading NULL.
+[2017.12.04-18.39.42:567][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Zones'
+[2017.12.04-18.39.42:567][340]LoadErrors: Failed to load /Game/ThirdPersonBP/MAterials/Zones.Zones Referenced by Sphere2
+[2017.12.04-18.39.42:567][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Zones' while loading NULL.
+[2017.12.04-18.39.42:567][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Zones'
+[2017.12.04-18.39.42:568][340]LoadErrors: Failed to load /Game/ThirdPersonBP/MAterials/Zones.Zones Referenced by Sphere3
+[2017.12.04-18.39.42:568][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Zones' while loading NULL.
+[2017.12.04-18.39.42:568][340]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/MAterials/Zones'
+[2017.12.04-18.39.42:568][340]LoadErrors: Failed to load /Game/ThirdPersonBP/MAterials/Zones.Zones Referenced by Sphere4
+[2017.12.04-18.39.42:568][340]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/MAterials/Zones' while loading NULL.
+[2017.12.04-18.39.42:575][340]LogAIModule: Creating AISystem for world RacoonCity
+[2017.12.04-18.39.42:587][340]Cmd: MAP LOAD FILE="F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Content/Maps/ThirdPersonBP/Maps/RacoonCity.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.04-18.39.42:587][340]LightingResults: New page: Lighting Build
+[2017.12.04-18.39.42:588][340]LoadErrors: New page: Loading map: RacoonCity.umap
+[2017.12.04-18.39.42:589][340]MapCheck: New page: Map Check
+[2017.12.04-18.39.42:589][340]LightingResults: New page: Lighting Build
+[2017.12.04-18.39.42:676][340]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.04-18.39.42:926][340]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.04-18.39.43:095][340]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 167.711ms to complete.
+[2017.12.04-18.39.43:095][340]LogFileHelpers: Loading map 'RacoonCity' took 0.508
+[2017.12.04-18.39.43:105][340]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Arrow': ThirdPersonCharacterNPC_C /Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.ThirdPersonCharacterNPC_84
+[2017.12.04-18.39.43:105][340]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': Collectible_C /Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.NewBlueprint_215
+[2017.12.04-18.39.43:105][340]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'NPCCamera': ThirdPersonCharacterNPC_C /Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.ThirdPersonCharacterNPC_84
+[2017.12.04-18.39.43:106][340]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CollisionCylinder': ThirdPersonCharacterNPC_C /Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.ThirdPersonCharacterNPC_84
+[2017.12.04-18.39.43:106][340]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CharMoveComp': ThirdPersonCharacterNPC_C /Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.ThirdPersonCharacterNPC_84
+[2017.12.04-18.39.43:106][340]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': Collectible_C /Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.NewBlueprint_215
+[2017.12.04-18.39.43:106][340]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CharacterMesh0': ThirdPersonCharacterNPC_C /Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.ThirdPersonCharacterNPC_84
+[2017.12.04-18.39.43:106][340]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CameraBoom': ThirdPersonCharacterNPC_C /Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.ThirdPersonCharacterNPC_84
+[2017.12.04-18.39.43:106][340]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Sphere': Collectible_C /Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.NewBlueprint_215
+[2017.12.04-18.40.16:947][325]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.04-18.40.17:291][325]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity' with GeneratedClass '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity'
+[2017.12.04-18.40.17:291][325]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.04-18.40.17:292][325]PIE: New page: PIE session: RacoonCity (Dec 4, 2017, 2:40:17 AM)
+[2017.12.04-18.40.17:292][325]LogPlayLevel: Creating play world package: /Game/Maps/ThirdPersonBP/Maps/UEDPIE_0_RacoonCity
+[2017.12.04-18.40.17:310][325]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017130s)
+[2017.12.04-18.40.17:311][325]LogAIModule: Creating AISystem for world RacoonCity
+[2017.12.04-18.40.17:312][325]LogPlayLevel: PIE: World Init took: (0.002254s)
+[2017.12.04-18.40.17:312][325]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity to /Game/Maps/ThirdPersonBP/Maps/UEDPIE_0_RacoonCity.RacoonCity (0.020081s)
+[2017.12.04-18.40.17:377][325]LogInit: XAudio2 using 'PL2783Q-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.04-18.40.17:387][325]LogInit: FAudioDevice initialized.
+[2017.12.04-18.40.17:429][325]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.04-18.40.17:440][325]LogWorld: Bringing World /Game/Maps/ThirdPersonBP/Maps/UEDPIE_0_RacoonCity.RacoonCity up for play (max tick rate 0) at 2017.12.04-10.40.17
+[2017.12.04-18.40.17:442][325]LogWorld: Bringing up level for play took: 0.011212
+[2017.12.04-18.40.17:465][325]PIE: Play in editor start time for /Game/Maps/ThirdPersonBP/Maps/UEDPIE_0_RacoonCity 0.808
+[2017.12.04-18.40.17:466][325]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity' with GeneratedClass '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity'
+[2017.12.04-18.41.04:795][989]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity' with GeneratedClass '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity'
+[2017.12.04-18.41.04:872][989]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity' with GeneratedClass '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity'
+[2017.12.04-18.41.36:860][507]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.04-18.41.36:968][507]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity' with GeneratedClass '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity'
+[2017.12.04-18.41.36:968][507]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.04-18.41.36:969][507]PIE: New page: PIE session: RacoonCity (Dec 4, 2017, 2:41:36 AM)
+[2017.12.04-18.41.36:969][507]LogPlayLevel: Creating play world package: /Game/Maps/ThirdPersonBP/Maps/UEDPIE_0_RacoonCity
+[2017.12.04-18.41.36:983][507]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014134s)
+[2017.12.04-18.41.36:984][507]LogAIModule: Creating AISystem for world RacoonCity
+[2017.12.04-18.41.36:984][507]LogPlayLevel: PIE: World Init took: (0.001129s)
+[2017.12.04-18.41.36:984][507]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity to /Game/Maps/ThirdPersonBP/Maps/UEDPIE_0_RacoonCity.RacoonCity (0.015693s)
+[2017.12.04-18.41.37:037][507]LogInit: XAudio2 using 'PL2783Q-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.04-18.41.37:049][507]LogInit: FAudioDevice initialized.
+[2017.12.04-18.41.37:102][507]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.04-18.41.37:115][507]LogWorld: Bringing World /Game/Maps/ThirdPersonBP/Maps/UEDPIE_0_RacoonCity.RacoonCity up for play (max tick rate 0) at 2017.12.04-10.41.37
+[2017.12.04-18.41.37:117][507]LogWorld: Bringing up level for play took: 0.011473
+[2017.12.04-18.41.37:123][507]PIE: Play in editor start time for /Game/Maps/ThirdPersonBP/Maps/UEDPIE_0_RacoonCity 0.466
+[2017.12.04-18.41.37:124][507]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity' with GeneratedClass '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity'
+[2017.12.04-18.42.23:708][ 92]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity' with GeneratedClass '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity'
+[2017.12.04-18.42.23:765][ 92]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity' with GeneratedClass '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity'
+[2017.12.04-18.42.26:360][370]Cmd: DELETE
+[2017.12.04-18.42.26:360][370]Cmd: ACTOR DELETE
+[2017.12.04-18.42.26:361][370]LogEditorActor: Deleted Actor: ThirdPersonCharacter_C
+[2017.12.04-18.42.26:394][370]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2017.12.04-18.42.30:833][889]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.04-18.42.30:950][889]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity' with GeneratedClass '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity'
+[2017.12.04-18.42.30:950][889]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.04-18.42.30:950][889]PIE: New page: PIE session: RacoonCity (Dec 4, 2017, 2:42:30 AM)
+[2017.12.04-18.42.30:951][889]LogPlayLevel: Creating play world package: /Game/Maps/ThirdPersonBP/Maps/UEDPIE_0_RacoonCity
+[2017.12.04-18.42.30:959][889]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008596s)
+[2017.12.04-18.42.30:960][889]LogAIModule: Creating AISystem for world RacoonCity
+[2017.12.04-18.42.30:960][889]LogPlayLevel: PIE: World Init took: (0.001104s)
+[2017.12.04-18.42.30:961][889]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity to /Game/Maps/ThirdPersonBP/Maps/UEDPIE_0_RacoonCity.RacoonCity (0.010110s)
+[2017.12.04-18.42.30:984][889]LogInit: XAudio2 using 'PL2783Q-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.04-18.42.30:990][889]LogInit: FAudioDevice initialized.
+[2017.12.04-18.42.31:022][889]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.04-18.42.31:025][889]LogWorld: Bringing World /Game/Maps/ThirdPersonBP/Maps/UEDPIE_0_RacoonCity.RacoonCity up for play (max tick rate 0) at 2017.12.04-10.42.31
+[2017.12.04-18.42.31:026][889]LogWorld: Bringing up level for play took: 0.002440
+[2017.12.04-18.42.31:027][889]PIE: Play in editor start time for /Game/Maps/ThirdPersonBP/Maps/UEDPIE_0_RacoonCity 0.37
+[2017.12.04-18.42.31:028][889]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity' with GeneratedClass '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity'
+[2017.12.04-18.42.37:089][611]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity' with GeneratedClass '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity'
+[2017.12.04-18.42.37:121][611]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity' with GeneratedClass '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity'
+[2017.12.04-18.42.43:701][274]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0014 seconds. Added 113 classes and 0 folders.
+[2017.12.04-18.42.44:956][274]LogSlate: Took 0.014266 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.12.04-18.42.49:048][581]LogRenderer: Reallocating scene render targets to support 1644x808 Format 10 NumSamples 1 (Frame:13422).
+[2017.12.04-18.43.14:152][690]LogSavePackage: Save=1278.50ms
+[2017.12.04-18.43.14:153][690]LogSavePackage: Moving 'F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Saved/ThirdPersonCharacter79A7B3D1436E76C3371B7C99F9D5D4DF.tmp' to 'F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.12.04-18.43.14:193][690]LogSavePackage: Display: Finished SavePackage F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2017.12.04-18.43.14:623][729]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.12.04-18.43.17:292][965]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.04-18.43.17:323][965]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity' with GeneratedClass '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity'
+[2017.12.04-18.43.17:323][965]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.04-18.43.17:323][965]PIE: New page: PIE session: RacoonCity (Dec 4, 2017, 2:43:17 AM)
+[2017.12.04-18.43.17:323][965]LogPlayLevel: Creating play world package: /Game/Maps/ThirdPersonBP/Maps/UEDPIE_0_RacoonCity
+[2017.12.04-18.43.17:326][965]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003408s)
+[2017.12.04-18.43.17:327][965]LogAIModule: Creating AISystem for world RacoonCity
+[2017.12.04-18.43.17:327][965]LogPlayLevel: PIE: World Init took: (0.000782s)
+[2017.12.04-18.43.17:327][965]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity to /Game/Maps/ThirdPersonBP/Maps/UEDPIE_0_RacoonCity.RacoonCity (0.004489s)
+[2017.12.04-18.43.17:343][965]LogInit: XAudio2 using 'PL2783Q-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.04-18.43.17:347][965]LogInit: FAudioDevice initialized.
+[2017.12.04-18.43.17:380][965]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.04-18.43.17:382][965]LogWorld: Bringing World /Game/Maps/ThirdPersonBP/Maps/UEDPIE_0_RacoonCity.RacoonCity up for play (max tick rate 0) at 2017.12.04-10.43.17
+[2017.12.04-18.43.17:383][965]LogWorld: Bringing up level for play took: 0.002118
+[2017.12.04-18.43.17:384][965]PIE: Play in editor start time for /Game/Maps/ThirdPersonBP/Maps/UEDPIE_0_RacoonCity 0.727
+[2017.12.04-18.43.17:384][965]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity' with GeneratedClass '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity'
+[2017.12.04-18.43.20:039][281]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity' with GeneratedClass '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity'
+[2017.12.04-18.43.20:072][281]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity' with GeneratedClass '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity'
+[2017.12.04-18.43.36:871][249]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.12.04-18.43.39:576][559]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.04-18.43.39:602][559]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity' with GeneratedClass '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity'
+[2017.12.04-18.43.39:602][559]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.04-18.43.39:602][559]PIE: New page: PIE session: RacoonCity (Dec 4, 2017, 2:43:39 AM)
+[2017.12.04-18.43.39:602][559]LogPlayLevel: Creating play world package: /Game/Maps/ThirdPersonBP/Maps/UEDPIE_0_RacoonCity
+[2017.12.04-18.43.39:606][559]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003535s)
+[2017.12.04-18.43.39:607][559]LogAIModule: Creating AISystem for world RacoonCity
+[2017.12.04-18.43.39:607][559]LogPlayLevel: PIE: World Init took: (0.000823s)
+[2017.12.04-18.43.39:607][559]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity to /Game/Maps/ThirdPersonBP/Maps/UEDPIE_0_RacoonCity.RacoonCity (0.004617s)
+[2017.12.04-18.43.39:622][559]LogInit: XAudio2 using 'PL2783Q-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.04-18.43.39:628][559]LogInit: FAudioDevice initialized.
+[2017.12.04-18.43.39:659][559]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.04-18.43.39:661][559]LogWorld: Bringing World /Game/Maps/ThirdPersonBP/Maps/UEDPIE_0_RacoonCity.RacoonCity up for play (max tick rate 0) at 2017.12.04-10.43.39
+[2017.12.04-18.43.39:661][559]LogWorld: Bringing up level for play took: 0.002092
+[2017.12.04-18.43.39:687][559]PIE: Play in editor start time for /Game/Maps/ThirdPersonBP/Maps/UEDPIE_0_RacoonCity 1.03
+[2017.12.04-18.43.39:688][559]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity' with GeneratedClass '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity'
+[2017.12.04-18.43.42:706][916]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity' with GeneratedClass '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity'
+[2017.12.04-18.43.42:741][916]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity' with GeneratedClass '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity'
+[2017.12.04-18.44.03:293][851]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.12.04-18.44.15:343][  4]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.04-18.44.15:371][  4]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity' with GeneratedClass '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity'
+[2017.12.04-18.44.15:371][  4]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.04-18.44.15:371][  4]PIE: New page: PIE session: RacoonCity (Dec 4, 2017, 2:44:15 AM)
+[2017.12.04-18.44.15:371][  4]LogPlayLevel: Creating play world package: /Game/Maps/ThirdPersonBP/Maps/UEDPIE_0_RacoonCity
+[2017.12.04-18.44.15:374][  4]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003486s)
+[2017.12.04-18.44.15:375][  4]LogAIModule: Creating AISystem for world RacoonCity
+[2017.12.04-18.44.15:375][  4]LogPlayLevel: PIE: World Init took: (0.000932s)
+[2017.12.04-18.44.15:375][  4]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity to /Game/Maps/ThirdPersonBP/Maps/UEDPIE_0_RacoonCity.RacoonCity (0.004634s)
+[2017.12.04-18.44.15:391][  4]LogInit: XAudio2 using 'PL2783Q-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.04-18.44.15:396][  4]LogInit: FAudioDevice initialized.
+[2017.12.04-18.44.15:431][  4]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.04-18.44.15:434][  4]LogWorld: Bringing World /Game/Maps/ThirdPersonBP/Maps/UEDPIE_0_RacoonCity.RacoonCity up for play (max tick rate 0) at 2017.12.04-10.44.15
+[2017.12.04-18.44.15:434][  4]LogWorld: Bringing up level for play took: 0.001975
+[2017.12.04-18.44.15:435][  4]PIE: Play in editor start time for /Game/Maps/ThirdPersonBP/Maps/UEDPIE_0_RacoonCity 0.778
+[2017.12.04-18.44.15:436][  4]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity' with GeneratedClass '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity'
+[2017.12.04-18.44.18:114][321]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity' with GeneratedClass '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity'
+[2017.12.04-18.44.18:152][321]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity' with GeneratedClass '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity'
+[2017.12.04-18.44.27:206][154]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.12.04-18.44.29:888][390]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.04-18.44.29:907][390]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity' with GeneratedClass '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity'
+[2017.12.04-18.44.29:907][390]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.04-18.44.29:908][390]PIE: New page: PIE session: RacoonCity (Dec 4, 2017, 2:44:29 AM)
+[2017.12.04-18.44.29:908][390]LogPlayLevel: Creating play world package: /Game/Maps/ThirdPersonBP/Maps/UEDPIE_0_RacoonCity
+[2017.12.04-18.44.29:911][390]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003532s)
+[2017.12.04-18.44.29:912][390]LogAIModule: Creating AISystem for world RacoonCity
+[2017.12.04-18.44.29:912][390]LogPlayLevel: PIE: World Init took: (0.000824s)
+[2017.12.04-18.44.29:912][390]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity to /Game/Maps/ThirdPersonBP/Maps/UEDPIE_0_RacoonCity.RacoonCity (0.004540s)
+[2017.12.04-18.44.29:928][390]LogInit: XAudio2 using 'PL2783Q-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.04-18.44.29:932][390]LogInit: FAudioDevice initialized.
+[2017.12.04-18.44.29:969][390]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.04-18.44.29:976][390]LogWorld: Bringing World /Game/Maps/ThirdPersonBP/Maps/UEDPIE_0_RacoonCity.RacoonCity up for play (max tick rate 0) at 2017.12.04-10.44.29
+[2017.12.04-18.44.29:977][390]LogWorld: Bringing up level for play took: 0.005555
+[2017.12.04-18.44.29:981][390]PIE: Play in editor start time for /Game/Maps/ThirdPersonBP/Maps/UEDPIE_0_RacoonCity -0.677
+[2017.12.04-18.44.29:981][390]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity' with GeneratedClass '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity'
+[2017.12.04-18.44.41:270][739]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity' with GeneratedClass '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity'
+[2017.12.04-18.44.41:317][739]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity' with GeneratedClass '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity'
+[2017.12.04-18.44.56:532][155]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.12.04-18.44.58:854][348]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.04-18.44.58:873][348]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity' with GeneratedClass '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity'
+[2017.12.04-18.44.58:873][348]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.04-18.44.58:873][348]PIE: New page: PIE session: RacoonCity (Dec 4, 2017, 2:44:58 AM)
+[2017.12.04-18.44.58:873][348]LogPlayLevel: Creating play world package: /Game/Maps/ThirdPersonBP/Maps/UEDPIE_0_RacoonCity
+[2017.12.04-18.44.58:876][348]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003378s)
+[2017.12.04-18.44.58:877][348]LogAIModule: Creating AISystem for world RacoonCity
+[2017.12.04-18.44.58:877][348]LogPlayLevel: PIE: World Init took: (0.000767s)
+[2017.12.04-18.44.58:877][348]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity to /Game/Maps/ThirdPersonBP/Maps/UEDPIE_0_RacoonCity.RacoonCity (0.004409s)
+[2017.12.04-18.44.58:893][348]LogInit: XAudio2 using 'PL2783Q-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.04-18.44.58:898][348]LogInit: FAudioDevice initialized.
+[2017.12.04-18.44.58:933][348]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.04-18.44.58:936][348]LogWorld: Bringing World /Game/Maps/ThirdPersonBP/Maps/UEDPIE_0_RacoonCity.RacoonCity up for play (max tick rate 0) at 2017.12.04-10.44.58
+[2017.12.04-18.44.58:936][348]LogWorld: Bringing up level for play took: 0.001907
+[2017.12.04-18.44.58:937][348]PIE: Play in editor start time for /Game/Maps/ThirdPersonBP/Maps/UEDPIE_0_RacoonCity 0.28
+[2017.12.04-18.44.58:938][348]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity' with GeneratedClass '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity'
+[2017.12.04-18.45.00:991][592]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity' with GeneratedClass '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity'
+[2017.12.04-18.45.01:030][592]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity' with GeneratedClass '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity'
+[2017.12.04-18.45.29:158][192]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.12.04-18.45.32:092][458]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.04-18.45.32:119][458]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity' with GeneratedClass '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity'
+[2017.12.04-18.45.32:119][458]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.04-18.45.32:119][458]PIE: New page: PIE session: RacoonCity (Dec 4, 2017, 2:45:32 AM)
+[2017.12.04-18.45.32:119][458]LogPlayLevel: Creating play world package: /Game/Maps/ThirdPersonBP/Maps/UEDPIE_0_RacoonCity
+[2017.12.04-18.45.32:123][458]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003877s)
+[2017.12.04-18.45.32:123][458]LogAIModule: Creating AISystem for world RacoonCity
+[2017.12.04-18.45.32:124][458]LogPlayLevel: PIE: World Init took: (0.000820s)
+[2017.12.04-18.45.32:124][458]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity to /Game/Maps/ThirdPersonBP/Maps/UEDPIE_0_RacoonCity.RacoonCity (0.004919s)
+[2017.12.04-18.45.32:139][458]LogInit: XAudio2 using 'PL2783Q-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.04-18.45.32:144][458]LogInit: FAudioDevice initialized.
+[2017.12.04-18.45.32:176][458]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.04-18.45.32:179][458]LogWorld: Bringing World /Game/Maps/ThirdPersonBP/Maps/UEDPIE_0_RacoonCity.RacoonCity up for play (max tick rate 0) at 2017.12.04-10.45.32
+[2017.12.04-18.45.32:179][458]LogWorld: Bringing up level for play took: 0.002133
+[2017.12.04-18.45.32:180][458]PIE: Play in editor start time for /Game/Maps/ThirdPersonBP/Maps/UEDPIE_0_RacoonCity -0.477
+[2017.12.04-18.45.32:180][458]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity' with GeneratedClass '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity'
+[2017.12.04-18.49.00:467][657]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity' with GeneratedClass '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity'
+[2017.12.04-18.49.00:504][657]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity' with GeneratedClass '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity'
+[2017.12.04-18.49.16:554][249]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2017.12.04-18.49.17:434][345]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.04-18.49.17:461][345]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity' with GeneratedClass '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity'
+[2017.12.04-18.49.17:461][345]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.04-18.49.17:462][345]PIE: New page: PIE session: RacoonCity (Dec 4, 2017, 2:49:17 AM)
+[2017.12.04-18.49.17:462][345]LogPlayLevel: Creating play world package: /Game/Maps/ThirdPersonBP/Maps/UEDPIE_0_RacoonCity
+[2017.12.04-18.49.17:466][345]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003895s)
+[2017.12.04-18.49.17:466][345]LogAIModule: Creating AISystem for world RacoonCity
+[2017.12.04-18.49.17:466][345]LogPlayLevel: PIE: World Init took: (0.000807s)
+[2017.12.04-18.49.17:467][345]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity to /Game/Maps/ThirdPersonBP/Maps/UEDPIE_0_RacoonCity.RacoonCity (0.005017s)
+[2017.12.04-18.49.17:483][345]LogInit: XAudio2 using 'PL2783Q-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.04-18.49.17:488][345]LogInit: FAudioDevice initialized.
+[2017.12.04-18.49.17:521][345]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.04-18.49.17:524][345]LogWorld: Bringing World /Game/Maps/ThirdPersonBP/Maps/UEDPIE_0_RacoonCity.RacoonCity up for play (max tick rate 0) at 2017.12.04-10.49.17
+[2017.12.04-18.49.17:524][345]LogWorld: Bringing up level for play took: 0.002214
+[2017.12.04-18.49.17:526][345]PIE: Play in editor start time for /Game/Maps/ThirdPersonBP/Maps/UEDPIE_0_RacoonCity 0.868
+[2017.12.04-18.49.17:526][345]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity' with GeneratedClass '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity'
+[2017.12.04-18.49.22:212][905]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity' with GeneratedClass '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity'
+[2017.12.04-18.49.22:255][905]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity' with GeneratedClass '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity'
+[2017.12.04-18.49.30:343][682]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.04-18.49.30:362][682]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity' with GeneratedClass '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity'
+[2017.12.04-18.49.30:362][682]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.04-18.49.30:362][682]PIE: New page: PIE session: RacoonCity (Dec 4, 2017, 2:49:30 AM)
+[2017.12.04-18.49.30:362][682]LogPlayLevel: Creating play world package: /Game/Maps/ThirdPersonBP/Maps/UEDPIE_0_RacoonCity
+[2017.12.04-18.49.30:365][682]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003590s)
+[2017.12.04-18.49.30:366][682]LogAIModule: Creating AISystem for world RacoonCity
+[2017.12.04-18.49.30:366][682]LogPlayLevel: PIE: World Init took: (0.000864s)
+[2017.12.04-18.49.30:366][682]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity to /Game/Maps/ThirdPersonBP/Maps/UEDPIE_0_RacoonCity.RacoonCity (0.004667s)
+[2017.12.04-18.49.30:383][682]LogInit: XAudio2 using 'PL2783Q-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.04-18.49.30:388][682]LogInit: FAudioDevice initialized.
+[2017.12.04-18.49.30:421][682]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.04-18.49.30:424][682]LogWorld: Bringing World /Game/Maps/ThirdPersonBP/Maps/UEDPIE_0_RacoonCity.RacoonCity up for play (max tick rate 0) at 2017.12.04-10.49.30
+[2017.12.04-18.49.30:424][682]LogWorld: Bringing up level for play took: 0.002119
+[2017.12.04-18.49.30:425][682]PIE: Play in editor start time for /Game/Maps/ThirdPersonBP/Maps/UEDPIE_0_RacoonCity -0.232
+[2017.12.04-18.49.30:426][682]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity' with GeneratedClass '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity'
+[2017.12.04-18.49.31:291][782]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity' with GeneratedClass '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity'
+[2017.12.04-18.49.31:339][782]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity' with GeneratedClass '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity'
+[2017.12.04-18.49.52:649][672]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.12.04-18.51.12:490][894]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.04-18.51.12:515][894]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity' with GeneratedClass '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity'
+[2017.12.04-18.51.12:515][894]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.04-18.51.12:515][894]PIE: New page: PIE session: RacoonCity (Dec 4, 2017, 2:51:12 AM)
+[2017.12.04-18.51.12:515][894]LogPlayLevel: Creating play world package: /Game/Maps/ThirdPersonBP/Maps/UEDPIE_0_RacoonCity
+[2017.12.04-18.51.12:518][894]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003358s)
+[2017.12.04-18.51.12:519][894]LogAIModule: Creating AISystem for world RacoonCity
+[2017.12.04-18.51.12:519][894]LogPlayLevel: PIE: World Init took: (0.000823s)
+[2017.12.04-18.51.12:519][894]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity to /Game/Maps/ThirdPersonBP/Maps/UEDPIE_0_RacoonCity.RacoonCity (0.004489s)
+[2017.12.04-18.51.12:537][894]LogInit: XAudio2 using 'PL2783Q-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.04-18.51.12:542][894]LogInit: FAudioDevice initialized.
+[2017.12.04-18.51.12:572][894]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.04-18.51.12:575][894]LogWorld: Bringing World /Game/Maps/ThirdPersonBP/Maps/UEDPIE_0_RacoonCity.RacoonCity up for play (max tick rate 0) at 2017.12.04-10.51.12
+[2017.12.04-18.51.12:575][894]LogWorld: Bringing up level for play took: 0.002096
+[2017.12.04-18.51.12:577][894]PIE: Play in editor start time for /Game/Maps/ThirdPersonBP/Maps/UEDPIE_0_RacoonCity -0.08
+[2017.12.04-18.51.12:577][894]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity' with GeneratedClass '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity'
+[2017.12.04-18.51.16:347][344]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity' with GeneratedClass '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity'
+[2017.12.04-18.51.16:395][344]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity' with GeneratedClass '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity'
+[2017.12.04-18.51.25:311][186]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.12.04-18.51.28:755][498]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.04-18.51.28:789][498]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity' with GeneratedClass '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity'
+[2017.12.04-18.51.28:789][498]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.04-18.51.28:789][498]PIE: New page: PIE session: RacoonCity (Dec 4, 2017, 2:51:28 AM)
+[2017.12.04-18.51.28:789][498]LogPlayLevel: Creating play world package: /Game/Maps/ThirdPersonBP/Maps/UEDPIE_0_RacoonCity
+[2017.12.04-18.51.28:793][498]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003535s)
+[2017.12.04-18.51.28:794][498]LogAIModule: Creating AISystem for world RacoonCity
+[2017.12.04-18.51.28:794][498]LogPlayLevel: PIE: World Init took: (0.000735s)
+[2017.12.04-18.51.28:794][498]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity to /Game/Maps/ThirdPersonBP/Maps/UEDPIE_0_RacoonCity.RacoonCity (0.004481s)
+[2017.12.04-18.51.28:811][498]LogInit: XAudio2 using 'PL2783Q-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.04-18.51.28:816][498]LogInit: FAudioDevice initialized.
+[2017.12.04-18.51.28:854][498]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.04-18.51.28:861][498]LogWorld: Bringing World /Game/Maps/ThirdPersonBP/Maps/UEDPIE_0_RacoonCity.RacoonCity up for play (max tick rate 0) at 2017.12.04-10.51.28
+[2017.12.04-18.51.28:861][498]LogWorld: Bringing up level for play took: 0.005893
+[2017.12.04-18.51.28:866][498]PIE: Play in editor start time for /Game/Maps/ThirdPersonBP/Maps/UEDPIE_0_RacoonCity 0.209
+[2017.12.04-18.51.28:866][498]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity' with GeneratedClass '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity'
+[2017.12.04-18.54.28:202][ 10]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity' with GeneratedClass '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity'
+[2017.12.04-18.54.28:249][ 10]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity' with GeneratedClass '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity'
+[2017.12.04-18.54.33:606][615]LogActorFactory: Actor Factory created Cylinder
+[2017.12.04-18.54.34:490][699]LogActorFactory: Actor Factory created Cylinder
+[2017.12.04-18.54.50:534][594]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.04-18.54.50:558][594]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity' with GeneratedClass '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity'
+[2017.12.04-18.54.50:558][594]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.04-18.54.50:559][594]PIE: New page: PIE session: RacoonCity (Dec 4, 2017, 2:54:50 AM)
+[2017.12.04-18.54.50:559][594]LogPlayLevel: Creating play world package: /Game/Maps/ThirdPersonBP/Maps/UEDPIE_0_RacoonCity
+[2017.12.04-18.54.50:562][594]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003602s)
+[2017.12.04-18.54.50:563][594]LogAIModule: Creating AISystem for world RacoonCity
+[2017.12.04-18.54.50:563][594]LogPlayLevel: PIE: World Init took: (0.000923s)
+[2017.12.04-18.54.50:563][594]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity to /Game/Maps/ThirdPersonBP/Maps/UEDPIE_0_RacoonCity.RacoonCity (0.004819s)
+[2017.12.04-18.54.50:580][594]LogInit: XAudio2 using 'PL2783Q-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.04-18.54.50:585][594]LogInit: FAudioDevice initialized.
+[2017.12.04-18.54.50:617][594]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.04-18.54.50:619][594]LogWorld: Bringing World /Game/Maps/ThirdPersonBP/Maps/UEDPIE_0_RacoonCity.RacoonCity up for play (max tick rate 0) at 2017.12.04-10.54.50
+[2017.12.04-18.54.50:620][594]LogWorld: Bringing up level for play took: 0.002110
+[2017.12.04-18.54.50:621][594]PIE: Play in editor start time for /Game/Maps/ThirdPersonBP/Maps/UEDPIE_0_RacoonCity -0.036
+[2017.12.04-18.54.50:621][594]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity' with GeneratedClass '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity'
+[2017.12.04-18.54.51:750][727]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity' with GeneratedClass '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity'
+[2017.12.04-18.54.51:795][727]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity' with GeneratedClass '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity'
+[2017.12.04-18.54.56:786][284]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2017.12.04-18.57.46:228][544]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube21)
+[2017.12.04-18.57.46:645][554]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2017.12.04-18.58.21:107][655]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.04-18.58.21:131][655]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity' with GeneratedClass '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity'
+[2017.12.04-18.58.21:131][655]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.04-18.58.21:131][655]PIE: New page: PIE session: RacoonCity (Dec 4, 2017, 2:58:21 AM)
+[2017.12.04-18.58.21:131][655]LogPlayLevel: Creating play world package: /Game/Maps/ThirdPersonBP/Maps/UEDPIE_0_RacoonCity
+[2017.12.04-18.58.21:135][655]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003789s)
+[2017.12.04-18.58.21:136][655]LogAIModule: Creating AISystem for world RacoonCity
+[2017.12.04-18.58.21:136][655]LogPlayLevel: PIE: World Init took: (0.001053s)
+[2017.12.04-18.58.21:137][655]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity to /Game/Maps/ThirdPersonBP/Maps/UEDPIE_0_RacoonCity.RacoonCity (0.005132s)
+[2017.12.04-18.58.21:153][655]LogInit: XAudio2 using 'PL2783Q-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.04-18.58.21:159][655]LogInit: FAudioDevice initialized.
+[2017.12.04-18.58.21:193][655]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.04-18.58.21:196][655]LogWorld: Bringing World /Game/Maps/ThirdPersonBP/Maps/UEDPIE_0_RacoonCity.RacoonCity up for play (max tick rate 0) at 2017.12.04-10.58.21
+[2017.12.04-18.58.21:196][655]LogWorld: Bringing up level for play took: 0.002547
+[2017.12.04-18.58.21:198][655]PIE: Play in editor start time for /Game/Maps/ThirdPersonBP/Maps/UEDPIE_0_RacoonCity 0.541
+[2017.12.04-18.58.21:198][655]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity' with GeneratedClass '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity'
+[2017.12.04-18.58.23:878][971]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity' with GeneratedClass '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity'
+[2017.12.04-18.58.23:926][971]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity' with GeneratedClass '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonBP/Maps/RacoonCity.RacoonCity:PersistentLevel.RacoonCity'
+[2017.12.04-18.58.25:005][ 88]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder2)
+[2017.12.04-18.58.30:131][691]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2017.12.04-18.58.36:512][365]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.04-18.59.12:226][196]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2017.12.04-18.59.25:272][255]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2017.12.04-18.59.25:368][262]Cmd: DELETE
+[2017.12.04-18.59.25:368][262]Cmd: ACTOR DELETE
+[2017.12.04-18.59.25:369][262]LogEditorActor: Deleted Actor: CameraActor
+[2017.12.04-18.59.25:420][262]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2017.12.04-18.59.56:530][518]LogSavePackage: Save=3095.71ms
+[2017.12.04-18.59.56:530][518]LogSavePackage: Moving 'F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Saved/RacoonCity_Auto11DC6C25842C82C170F7BD6B3379A15DC.tmp' to 'F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Saved/Autosaves/Game/Maps/ThirdPersonBP/Maps/RacoonCity_Auto1.umap'
+[2017.12.04-18.59.56:552][518]LogSavePackage: Display: Finished SavePackage F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Saved/Autosaves/Game/Maps/ThirdPersonBP/Maps/RacoonCity_Auto1.umap
+[2017.12.04-18.59.56:565][518]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/ThirdPersonBP/Maps/RacoonCity' took 3.234
+[2017.12.04-18.59.56:566][518]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.234
+[2017.12.04-18.59.56:574][518]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2017.12.04-18.59.56:607][518]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2017.12.04-18.59.56:607][518]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2017.12.04-18.59.57:903][518]LogSavePackage: Save=1265.79ms
+[2017.12.04-18.59.57:904][518]LogSavePackage: Moving 'F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Saved/ThirdPersonCharacter_Auto1F399E605408088819DAA318EE2C7EC41.tmp' to 'F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset'
+[2017.12.04-18.59.57:913][518]LogSavePackage: Display: Finished SavePackage F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset
+[2017.12.04-18.59.57:913][518]LogFileHelpers: Auto-saving content packages took 1.342
+[2017.12.04-19.00.17:954][707]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.12.04-19.00.20:344][796]LogSavePackage: Save=1210.13ms
+[2017.12.04-19.00.20:344][796]LogSavePackage: Moving 'F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Saved/ThirdPersonCharacterF376EBE44BDA35DBF83C55A49031932D.tmp' to 'F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.12.04-19.00.20:379][796]LogSavePackage: Display: Finished SavePackage F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2017.12.04-19.00.31:946][718]LogSavePackage: Save=3092.20ms
+[2017.12.04-19.00.31:946][718]LogSavePackage: Moving 'F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Saved/RacoonCity92D7413D4C010101F811548D5BFC5448.tmp' to 'F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Content/Maps/ThirdPersonBP/Maps/RacoonCity.umap'
+[2017.12.04-19.00.31:985][718]LogSavePackage: Display: Finished SavePackage F:/Ptojekt 2/Aniamtion_Test_Files/animation_test/Content/Maps/ThirdPersonBP/Maps/RacoonCity.umap
+[2017.12.04-19.00.32:144][718]LogFileHelpers: Saving map 'RacoonCity' took 3.360
